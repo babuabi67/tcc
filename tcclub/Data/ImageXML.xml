@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Images>
+	<image name = "11.jpg" order ="1" description = "Picture 1"></image>
+	<image name = "22.jpg" order ="2" description = "Picture 2"></image>
+	<image name = "33.jpg" order ="3" description = "Picture 3"></image>
+	<image name = "44.jpg" order ="4" description = "Picture 4"></image>
+	<image name = "55.jpg" order ="5" description = "Picture 5"></image>
+	<image name = "66.jpg" order ="6" description = "Picture 6"></image>
+	<image name = "77.jpg" order ="7" description = "Picture 7"></image>
+	<image name = "88.jpg" order ="8" description = "Picture 8"></image>
+	<image name = "99.jpg" order ="9" description = "Picture 9"></image>
+	<image name = "999.jpg" order ="10" description = "Picture 10"></image>
+
+</Images>

@@ -1,0 +1,16 @@
+C:\Babu\WebApplications\tcc\tcclub\tcclub\bin\tcclub.dll
+C:\Babu\WebApplications\tcc\tcclub\tcclub\bin\tcclub.pdb
+C:\Babu\WebApplications\tcc\tcclub\tcclub\bin\tcclub.xml
+C:\Babu\WebApplications\tcc\tcclub\tcclub\obj\Debug\tcclub.Resources.resources
+C:\Babu\WebApplications\tcc\tcclub\tcclub\obj\Debug\tcclub.vbproj.GenerateResource.Cache
+C:\Babu\WebApplications\tcc\tcclub\tcclub\obj\Debug\tcclub.dll
+C:\Babu\WebApplications\tcc\tcclub\tcclub\obj\Debug\tcclub.xml
+C:\Babu\WebApplications\tcc\tcclub\tcclub\obj\Debug\tcclub.pdb
+C:\Babu\WebApplications\tcc\tcclub\bin\tcclub.dll
+C:\Babu\WebApplications\tcc\tcclub\bin\tcclub.pdb
+C:\Babu\WebApplications\tcc\tcclub\bin\tcclub.xml
+C:\Babu\WebApplications\tcc\tcclub\obj\Debug\tcclub.Resources.resources
+C:\Babu\WebApplications\tcc\tcclub\obj\Debug\tcclub.vbproj.GenerateResource.Cache
+C:\Babu\WebApplications\tcc\tcclub\obj\Debug\tcclub.dll
+C:\Babu\WebApplications\tcc\tcclub\obj\Debug\tcclub.xml
+C:\Babu\WebApplications\tcc\tcclub\obj\Debug\tcclub.pdb
